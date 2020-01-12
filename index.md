@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/bradhuang123/HuangWei.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育
+武汉大学          地理信息系统       2009-2013
+中国科学院大学     地理信息系统       2013-2016
 
-### Markdown
+### 工作经历
+国家知识产权局专利局专利审查协作江苏中心  通信部图像室  审查员 2016-2018
+正业设计北京分公司  设计师  2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bradhuang123/HuangWei.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 兴趣爱好
+听各类音乐
